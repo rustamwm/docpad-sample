@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'First blog post. Markdown.'
-date: 20.02.2013
+date: 02/20/2013
 ---
 
 This post is in [Markdown](http://daringfireball.net/projects/markdown/) markup.
