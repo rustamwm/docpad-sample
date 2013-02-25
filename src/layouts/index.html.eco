@@ -9,7 +9,7 @@ layout: default
 <div class="container well">
     <div class="row">
         <div class="span12">
-            <div id="photo"><img src="img/user.png" width="186px"></div>
+            <div id="photo"><a href="rustamwm.tk"><img src="img/user.png" width="186px"></a></div>
             <div id="data">
                 <table class="table">
                   <tbody>
