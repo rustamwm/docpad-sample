@@ -5,6 +5,7 @@
     <title>Рустам Синагатуллин - разработчик Microsoft Dynamics CRM</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Rustam Sinagatullin">
+    <link rel="shortcut icon" href="/src/public/img/favicon.ico">
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
