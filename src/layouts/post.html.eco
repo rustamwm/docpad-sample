@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="container well">
   <ul class="breadcrumb">
-    <li><a href="/">Main page</a> <span class="divider">/</span></li>
+    <li><a href="/">Рустам Синагатуллин</a> <span class="divider">/</span></li>
     <li class="active"><%=@document.title%></li>
   </ul>
   <%-@content%>
